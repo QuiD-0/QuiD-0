@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Quid-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quid-0&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quid-0&layout=compact&title_color=000)](https://github.com/Quid-0/github-readme-stats)
+[![Solved.ac wodnd101](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnd101)](https://solved.ac/wodnd101)

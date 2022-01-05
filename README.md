@@ -7,6 +7,7 @@
 [![Solved.ac wodnd101](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnd101)](https://solved.ac/wodnd101)
    
 </div>
+
 # JAEUNG😀
 ### Who Am I
 - 🌱 I’m currently learning Spring, Algorithm

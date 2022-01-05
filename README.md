@@ -2,7 +2,8 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=LeeJaeUng&fontSize=70&color=timeGradient&fontAlign=70&fontAlignY=40)
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=quid-0&row=1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
 # JAEUNG😀
@@ -23,9 +24,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=quid-0&row=1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  
+
 # 🛠 LANGUAGE &  TECH STACK 🛠
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,3 +42,6 @@
 
 </div>
 
+
+
+   

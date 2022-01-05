@@ -2,16 +2,21 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=LeeJaeUng&fontSize=70&color=timeGradient&fontAlign=70&fontAlignY=40)
-![trophy](https://github-profile-trophy.vercel.app/?username=quid-0)
+
+HI THERE! I'M JAEUNG 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=quid-0&row=1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![Solved.ac wodnd101](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnd101)](https://solved.ac/wodnd101)
    
-# 🛠 TECH STACK 🛠
 
+# ✒LANGUAGE  ✒ 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
+
+# 🛠 TECH STACK 🛠
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)

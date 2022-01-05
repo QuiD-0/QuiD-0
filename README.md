@@ -21,8 +21,6 @@
 - 🔵 Game
 - ☕ Coffee
 
-[![Solved.ac wodnd101](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnd101)](https://solved.ac/wodnd101)
-
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=quid-0&row=1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)

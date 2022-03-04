@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=LeeJaeUng&fontSize=70&color=timeGradient&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=LeeJaeUng&fontSize=70&color=timeGradient&fontAlign=70&fontAlignY=40)
 </div>
 
 # JAEUNG😀

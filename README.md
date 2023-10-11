@@ -35,7 +35,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuiD-0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuiD-0&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quid-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 

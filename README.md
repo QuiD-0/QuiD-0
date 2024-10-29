@@ -32,7 +32,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   
-![Spring Boot](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=QuiD-0&theme=onedark&column=-1&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)

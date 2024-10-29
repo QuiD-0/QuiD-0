@@ -30,10 +30,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23a030e9.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 
   
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=QuiD-0&theme=onedark&column=-1&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
